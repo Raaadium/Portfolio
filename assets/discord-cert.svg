@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond du badge -->
+  <circle cx="100" cy="100" r="95" fill="#0a0a0a" stroke="#6c00ff" stroke-width="3"/>
+  
+  <!-- Discord Logo recentré -->
+  <path d="M140 85C140 85 128 75 110 75L108 77C124 82 131 89 138 98C122 90 107 86 100 86C93 86 78 90 62 98C69 89 76 82 92 77L90 75C72 75 60 85 60 85C60 85 45 105 42 145C61 169 90 169 90 169L96 160C87 156 78 150 69 140C80 147 98 155 100 155C102 155 120 147 131 140C122 150 113 156 104 160L110 169C110 169 139 169 158 145C155 105 140 85 140 85ZM75 120C69 120 64 114 64 107C64 100 69 94 75 94C81 94 86 100 86 107C86 114 81 120 75 120ZM125 120C119 120 114 114 114 107C114 100 119 94 125 94C131 94 136 100 136 107C136 114 131 120 125 120Z" fill="#6c00ff"/>
+  
+  <!-- Points pour les yeux -->
+  <circle cx="80" cy="110" r="5" fill="#0a0a0a"/>
+  <circle cx="120" cy="110" r="5" fill="#0a0a0a"/>
+  
+  <!-- Texte -->
+  <text x="100" y="170" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">DISCORD EXPERT</text>
+</svg>
