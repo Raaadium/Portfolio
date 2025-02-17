@@ -208,6 +208,18 @@ h2 {
     text-align: center;
 }
 
+/* About Section */
+.about-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-content p {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
 /* Skills Grid */
 .skills-grid {
     display: grid;
