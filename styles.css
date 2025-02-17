@@ -335,6 +335,27 @@ h2 {
     border: 1px solid rgba(255, 255, 255, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+.about-content {
+    text-align: center;
+}
+.badge-container {
+    border: 3px solid rgba(83, 252, 167, 0.1);
+    border-radius: 9999px;
+    text-align: center;
+}
+.badge-container img {
+    margin: auto;
+}
+.badge-container img.badge-web3 {
+    max-width: 80%;
+}
+.badge-container img.badge-discord {
+    max-width: 60%;
+}
+.badge-container img.badge-community {
+    max-width: 100%;
+    padding-top: 5px;
+}
 
 /* Contact Section */
 .contact-container {
@@ -615,6 +636,10 @@ footer {
     margin-top: 1rem;
 }
 
+.social-links img {
+    width: 30px;
+    height: 30px;
+}
 .social-links a {
     color: var(--text-color);
     font-size: 1.5rem;

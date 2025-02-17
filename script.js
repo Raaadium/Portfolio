@@ -1,22 +1,22 @@
 // Données des projets (à personnaliser)
 const projects = [
     {
-        title: "Projet NFT Collection",
+        title: "Juneo Supernet",
         description: "Animation de la communauté Discord pour le lancement d'une collection NFT",
         metrics: "+20K membres, +5K ventes",
-        image: "./assets/image.png"
+        image: "./assets/projects/juneo.jpg"
     },
     {
-        title: "DeFi Community",
-        description: "Gestion de communauté pour une plateforme DeFi",
-        metrics: "+50K followers, +30% engagement",
-        image: "./assets/image.png"
-    },
-    {
-        title: "GameFi Launch",
+        title: "Agora GameFi",
         description: "Stratégie de lancement pour un projet GameFi",
         metrics: "+100K joueurs actifs",
-        image: "./assets/image.png"
+        image: "./assets/projects/agora.webp"
+    },
+    {
+        title: "20 minutes",
+        description: "Gestion de communauté pour une plateforme DeFi",
+        metrics: "+50K followers, +30% engagement",
+        image: "./assets/projects/20min.webp"
     }
 ];
 
